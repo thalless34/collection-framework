@@ -1,4 +1,4 @@
-package br.com.estudos.generics;
+package br.com.estudos.exemplos.generics;
 
 import java.util.HashSet;
 import java.util.Set;
