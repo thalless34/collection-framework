@@ -1,4 +1,4 @@
-package br.com.estudos.exemplos.generics;
+package br.com.estudos.generics;
 
 import java.util.HashMap;
 import java.util.Map;
